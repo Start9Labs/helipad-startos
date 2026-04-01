@@ -6,7 +6,7 @@ export const manifest = setupManifest({
   title: 'Helipad',
   license: 'MIT',
   packageRepo:
-    'https://github.com/Podcastindex-org/helipad-startos/tree/update/040',
+    'https://github.com/Podcastindex-org/helipad-startos',
   upstreamRepo: 'https://github.com/Podcastindex-org/helipad',
   marketingUrl: 'https://podcastindex.org',
   donationUrl: null,
